@@ -49,11 +49,10 @@ function BBCanvas() {
         </div>);
 }
 
-function Editor({ name }
+function Editor(
 ) {
     return (
         <div>
-            <h1>Hello, {name}</h1>
             <hr />
             <div id="toolstatus"></div>
             <hr />

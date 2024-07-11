@@ -12,6 +12,8 @@ public class EjemploController implements WebMvcConfigurer {
 		registry.addViewController("/").setViewName("home");
 		registry.addViewController("/canvas").setViewName("canvas");
 		registry.addViewController("/login").setViewName("login");
+		registry.addViewController("/create").setViewName("create");
 	}
+
 
 }
