@@ -1,4 +1,4 @@
-# Lab09ARSW
+# Lab-09 ARSW
 
 This programm allow multiple users to draw in a board using realtime securely
 2024/07/09
@@ -47,14 +47,9 @@ mvn clean package
 
 ### Acceptance test
 
-![image](https://github.com/Parralol/Lab08ARSW/assets/110953563/c6650372-5598-4b8a-8c74-6f20fe3ea086)
 
-This test is run in a deployed service on EC2 as seen in the image
 
-![image](https://github.com/Parralol/Lab08ARSW/assets/110953563/36dfcafb-357f-4d01-bdab-c2838557b13a)
-
-As seen here the program works succesfully on an EC2 instance painting everything the two users ask.
-
+https://github.com/user-attachments/assets/15ba9505-4d21-41a0-9aca-b5edbc2b59f4
 
 
 ## Generating javadoc
