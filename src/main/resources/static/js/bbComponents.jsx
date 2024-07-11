@@ -1,7 +1,7 @@
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-    <Editor name="Santiago" />
+    <Editor />
 );
 
 function BBCanvas() {
@@ -77,6 +77,7 @@ function BBServiceURL() {
     console.log("URL Calculada: " + url);
     return url;
     }
+
 class WSBBChannel {
     constructor(URL, callback) {
         this.URL = URL;

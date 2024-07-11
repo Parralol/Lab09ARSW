@@ -1,4 +1,4 @@
-package ejemplo.clase.arsw;
+package co.edu.escuelaing.arws.interactiveblackboard.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
